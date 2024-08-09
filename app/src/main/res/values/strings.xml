@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EkaCareRoomDatabase</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="enter_dob">Enter DOB</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="save_data">Save Data</string>
+</resources>
